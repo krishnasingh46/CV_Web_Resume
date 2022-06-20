@@ -24,6 +24,7 @@ main {
 body{
     
    background:repeating-linear-gradient(#fff,black,black,black,black,black);
+    width: 100%;
 }
 j {
     position: absolute;
